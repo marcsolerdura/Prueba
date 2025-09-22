@@ -7,7 +7,7 @@
 ###### Esto es un encabezado h6
 ## Enlaces h2
 [Enlace a la página web del IES Porçons](https://portal.edu.gva.es/iesporcons/)  
-Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].
+Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].  
 [1]: https://portal.edu.gva.es/iesporcons/  
 [2]: https://github.com
 ## Listas desordenadas h2
