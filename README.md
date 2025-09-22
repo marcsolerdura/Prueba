@@ -5,7 +5,7 @@
 #### Esto es un encabezado h4
 ##### Esto es un encabezado h5
 ###### Esto es un encabezado h6
-####### Enlaces h2
+## Enlaces h2
 [Enlace a la página web del IES Porçons](https://portal.edu.gva.es/iesporcons/)  
 Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].  
 [1]: https://portal.edu.gva.es/iesporcons/  
@@ -15,7 +15,7 @@ Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].
 * Item 2
 * Item 3
 * Item 4
-######## Listas desordenadas anidadas h2
+## Listas desordenadas anidadas h2
 * Item 1
   * Item 1.1
   * Item 1.2
