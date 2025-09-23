@@ -36,7 +36,7 @@ Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].
   2.1 Item 2.1  
 3. Item 3  
 4. Item 4
-## Tablas h2
+## Tablas h2  
 | Encabezado 1 | Encabezado 2 | Encabezado 3
 | --- | --- | --- | ---
 | Fila 1.1 | Fila 1.2 | Fila 1.3
