@@ -1,4 +1,4 @@
-Este es un archivo de prueba en **Markdown**.
+# Este es un nuevo documento
 
 ## Lista de cosas
 - Elemento 1
