@@ -37,10 +37,10 @@ Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].
 3. Item 3  
 4. Item 4
 ## Tablas  
-| Encabezado 1 | Encabezado 2 | Encabezado 3|
-| Fila 1.1 | Fila 1.2 | Fila 1.3|
-| Fila 2.1 | Fila 2.2 | Fila 2.3|
-| Fila 3.1 | Fila 3.2 | Fila 3.3|  
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| Fila 1.1 | Fila 1.2 | Fila 1.3 |
+| Fila 2.1 | Fila 2.2 | Fila 2.3 |
+| Fila 3.1 | Fila 3.2 | Fila 3.3 |  
 ## Enlace a imagen   
 [![Imagen externa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)
 
