@@ -43,7 +43,10 @@ Enlaces a la página web del [IES Porçons][1] y a [GitHub][2].
 | Fila 2.1 | Fila 2.2 | Fila 2.3 |
 | Fila 3.1 | Fila 3.2 | Fila 3.3 |  
 ## Enlace a imagen   
-[![Imagen externa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)
+[![Imagen externa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIi3xjLqVZOJFDwQ2H5bMYt1galwdE7JnWA&s)  
+## Enlace al nuevo documento  
+[Ir al nuevo documento](nuevo.md)
+
 
 
 
