@@ -8,8 +8,9 @@ Este es un archivo de prueba en **Markdown**.
 ## Tabla de ejemplo
 | Nombre | Edad | Ciudad |
 |--------|------|--------|
-| Ana    | 22   | Madrid |
+| Marc    | 22   | Ontinyent |
 | Luis   | 30   | Valencia |
+| Pepe  |  58  |  Albaida  |
 
 ## Enlace de ejemplo
 [Ir a GitHub](https://github.com)
